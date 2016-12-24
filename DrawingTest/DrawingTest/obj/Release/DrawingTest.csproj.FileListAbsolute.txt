@@ -1,0 +1,17 @@
+E:\Misc\CS Programming\DrawingTest\DrawingTest\bin\Release\DrawingTest.exe
+E:\Misc\CS Programming\DrawingTest\DrawingTest\bin\Release\DrawingTest.pdb
+E:\Misc\CS Programming\DrawingTest\DrawingTest\obj\Release\ResolveAssemblyReference.cache
+E:\Misc\CS Programming\DrawingTest\DrawingTest\obj\Release\DrawingTest.Form1.resources
+E:\Misc\CS Programming\DrawingTest\DrawingTest\obj\Release\DrawingTest.Properties.Resources.resources
+E:\Misc\CS Programming\DrawingTest\DrawingTest\obj\Release\DrawingTest.csproj.GenerateResource.Cache
+E:\Misc\CS Programming\DrawingTest\DrawingTest\obj\Release\DrawingTest.exe
+E:\Misc\CS Programming\DrawingTest\DrawingTest\obj\Release\DrawingTest.pdb
+E:\Misc\CS Programming\DrawingTestCopy\DrawingTest\obj\Release\DrawingTest.exe
+E:\Misc\CS Programming\DrawingTestCopy\DrawingTest\obj\Release\DrawingTest.pdb
+E:\Misc\CS Programming\DrawingTestCopy\DrawingTest\bin\Release\DrawingTest.exe
+E:\Misc\CS Programming\DrawingTestCopy\DrawingTest\bin\Release\DrawingTest.pdb
+E:\Misc\CS Programming\DrawingTestCopy\DrawingTest\obj\Release\ResolveAssemblyReference.cache
+E:\Misc\CS Programming\DrawingTestCopy\DrawingTest\obj\Release\DrawingTest.Form1.resources
+E:\Misc\CS Programming\DrawingTestCopy\DrawingTest\obj\Release\DrawingTest.Properties.Resources.resources
+E:\Misc\CS Programming\DrawingTestCopy\DrawingTest\obj\Release\DrawingTest.csproj.GenerateResource.Cache
+E:\Misc\CS Programming\DrawingTest\DrawingTest\bin\Release\DrawingTest.exe.config

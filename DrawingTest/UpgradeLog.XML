@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DrawingTest">
+</Property><Property Name="Solution File" Value="E:\Misc\CS Programming\DrawingTest\DrawingTest.sln">
+</Property><Property Name="User Options File" Value="E:\Misc\CS Programming\DrawingTest\DrawingTest.suo">
+</Property><Property Name="Date" Value="Tuesday, October 08, 2013">
+</Property><Property Name="Time" Value="7:37 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DrawingTest.sln" Description="File successfully backed up as E:\Misc\CS Programming\DrawingTest\Backup\DrawingTest.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DrawingTest.suo" Description="File successfully backed up as E:\Misc\CS Programming\DrawingTest\Backup\DrawingTest.suo">
+</Event><Event ErrorLevel="0" Project="DrawingTest" Source="DrawingTest\DrawingTest.csproj" Description="Project file successfully backed up as E:\Misc\CS Programming\DrawingTest\Backup\DrawingTest\DrawingTest.csproj">
+</Event><Event ErrorLevel="0" Project="DrawingTest" Source="DrawingTest\DrawingTest.csproj.user" Description="Project user file successfully backed up as E:\Misc\CS Programming\DrawingTest\Backup\DrawingTest\DrawingTest.csproj.user">
+</Event><Event ErrorLevel="0" Project="DrawingTest" Source="DrawingTest\Form1.cs" Description="File successfully backed up as E:\Misc\CS Programming\DrawingTest\Backup\DrawingTest\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DrawingTest" Source="DrawingTest\Form1.Designer.cs" Description="File successfully backed up as E:\Misc\CS Programming\DrawingTest\Backup\DrawingTest\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrawingTest" Source="DrawingTest\Program.cs" Description="File successfully backed up as E:\Misc\CS Programming\DrawingTest\Backup\DrawingTest\Program.cs">
+</Event><Event ErrorLevel="0" Project="DrawingTest" Source="DrawingTest\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\Misc\CS Programming\DrawingTest\Backup\DrawingTest\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DrawingTest" Source="DrawingTest\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\Misc\CS Programming\DrawingTest\Backup\DrawingTest\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrawingTest" Source="DrawingTest\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\Misc\CS Programming\DrawingTest\Backup\DrawingTest\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrawingTest" Source="DrawingTest\app.config" Description="File successfully backed up as E:\Misc\CS Programming\DrawingTest\Backup\DrawingTest\app.config">
+</Event><Event ErrorLevel="0" Project="DrawingTest" Source="DrawingTest\Properties\Settings.settings" Description="File successfully backed up as E:\Misc\CS Programming\DrawingTest\Backup\DrawingTest\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DrawingTest" Source="DrawingTest\icon.ico" Description="File successfully backed up as E:\Misc\CS Programming\DrawingTest\Backup\DrawingTest\icon.ico">
+</Event><Event ErrorLevel="0" Project="DrawingTest" Source="DrawingTest\Form1.resx" Description="File successfully backed up as E:\Misc\CS Programming\DrawingTest\Backup\DrawingTest\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DrawingTest" Source="DrawingTest\Properties\Resources.resx" Description="File successfully backed up as E:\Misc\CS Programming\DrawingTest\Backup\DrawingTest\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DrawingTest" Source="DrawingTest\DrawingTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DrawingTest" Source="DrawingTest\DrawingTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DrawingTest.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DrawingTest.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DrawingTest" Source="DrawingTest\DrawingTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
